@@ -30,7 +30,7 @@ export default function TabTwoScreen() {
           Explore
         </ThemedText>
       </ThemedView>
-      <ThemedText>This app doent includes example code to help you get started.</ThemedText>
+      <ThemedText>This app includes example code to help you get started.</ThemedText>
       <Collapsible title="File-based routing">
         <ThemedText>
           This app has two screens:{' '}
@@ -47,7 +47,7 @@ export default function TabTwoScreen() {
       </Collapsible>
       <Collapsible title="Android, iOS, and web support">
         <ThemedText>
-          You can not open this project on Android, iOS, and the web. To open the web version, press{' '}
+          You can open this project on Android, iOS, and the web. To open the web version, press{' '}
           <ThemedText type="defaultSemiBold">w</ThemedText> in the terminal running this project.
         </ThemedText>
       </Collapsible>
